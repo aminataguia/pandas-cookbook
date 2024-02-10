@@ -1,0 +1,193 @@
+year,age,name,movie,gender
+1927,22,Janet Gaynor,"Seventh Heaven, Street Angel and Sunrise: A Song of Two Humans",f
+1928,37,Mary Pickford,Coquette,f
+1929,28,Norma Shearer,The Divorcee,f
+1930,63,Marie Dressler,Min and Bill,f
+1931,32,Helen Hayes,The Sin of Madelon Claudet,f
+1932,26,Katharine Hepburn,Morning Glory,f
+1933,31,Claudette Colbert,It Happened One Night,f
+1934,27,Bette Davis,Dangerous,f
+1935,27,Luise Rainer,The Great Ziegfeld,f
+1936,28,Luise Rainer,The Good Earth,f
+1937,30,Bette Davis,Jezebel,f
+1938,26,Vivien Leigh,Gone with the Wind,f
+1939,29,Ginger Rogers,Kitty Foyle,f
+1940,24,Joan Fontaine,Suspicion,f
+1941,38,Greer Garson,Mrs. Miniver,f
+1942,25,Jennifer Jones,The Song of Bernadette,f
+1943,29,Ingrid Bergman,Gaslight,f
+1944,40,Joan Crawford,Mildred Pierce,f
+1945,30,Olivia de Havilland,To Each His Own,f
+1946,35,Loretta Young,The Farmer's Daughter,f
+1947,32,Jane Wyman,Johnny Belinda,f
+1948,33,Olivia de Havilland,The Heiress,f
+1949,29,Judy Holliday,Born Yesterday,f
+1950,38,Vivien Leigh,A Streetcar Named Desire,f
+1951,54,Shirley Booth,"Come Back, Little Sheba",f
+1952,24,Audrey Hepburn,Roman Holiday,f
+1953,25,Grace Kelly,The Country Girl,f
+1954,48,Anna Magnani,The Rose Tattoo,f
+1955,41,Ingrid Bergman,Anastasia,f
+1956,28,Joanne Woodward,The Three Faces of Eve,f
+1957,41,Susan Hayward,I Want to Live!,f
+1958,39,Simone Signoret,Room at the Top,f
+1959,29,Elizabeth Taylor,BUtterfield 8,f
+1960,27,Sophia Loren,Two Women,f
+1961,31,Anne Bancroft,The Miracle Worker,f
+1962,31,Patricia Neal,Hud,f
+1963,29,Julie Andrews,Mary Poppins,f
+1964,25,Julie Christie,Darling,f
+1965,35,Elizabeth Taylor,Who's Afraid of Virginia Woolf?,f
+1966,60,Katharine Hepburn,Guess Who's Coming to Dinner,f
+1967,61,Katharine Hepburn,The Lion in Winter,f
+1968,26,Barbra Streisand,Funny Girl,f
+1969,35,Maggie Smith,The Prime of Miss Jean Brodie,f
+1970,34,Glenda Jackson,Women in Love,f
+1971,34,Jane Fonda,Klute,f
+1972,27,Liza Minnelli,Cabaret,f
+1973,37,Glenda Jackson,A Touch of Class,f
+1974,42,Ellen Burstyn,Alice Doesn't Live Here Anymore,f
+1975,41,Louise Fletcher,One Flew Over the Cuckoo's Nest,f
+1976,36,Faye Dunaway,Network,f
+1977,32,Diane Keaton,Annie Hall,f
+1978,41,Jane Fonda,Coming Home,f
+1979,33,Sally Field,Norma Rae,f
+1980,31,Sissy Spacek,Coal Miner's Daughter,f
+1981,74,Katharine Hepburn,On Golden Pond,f
+1982,33,Meryl Streep,Sophie's Choice,f
+1983,49,Shirley MacLaine,Terms of Endearment,f
+1984,38,Sally Field,Places in the Heart,f
+1985,61,Geraldine Page,The Trip to Bountiful,f
+1986,21,Marlee Matlin,Children of a Lesser God,f
+1987,41,Cher,Moonstruck,f
+1988,26,Jodie Foster,The Accused,f
+1989,80,Jessica Tandy,Driving Miss Daisy,f
+1990,42,Kathy Bates,Misery,f
+1991,29,Jodie Foster,The Silence of the Lambs,f
+1992,33,Emma Thompson,Howards End,f
+1993,36,Holly Hunter,The Piano,f
+1994,45,Jessica Lange,Blue Sky,f
+1995,49,Susan Sarandon,Dead Man Walking,f
+1996,39,Frances McDormand,Fargo,f
+1997,34,Helen Hunt,As Good as It Gets,f
+1998,26,Gwyneth Paltrow,Shakespeare in Love,f
+1999,25,Hilary Swank,Boys Don't Cry,f
+2000,33,Julia Roberts,Erin Brockovich,f
+2001,35,Halle Berry,Monster's Ball,f
+2002,35,Nicole Kidman,The Hours,f
+2003,28,Charlize Theron,Monster,f
+2004,30,Hilary Swank,Million Dollar Baby,f
+2005,29,Reese Witherspoon,Walk the Line,f
+2006,61,Helen Mirren,The Queen,f
+2007,32,Marion Cotillard,La Vie en rose,f
+2008,33,Kate Winslet,The Reader,f
+2009,45,Sandra Bullock,The Blind Side,f
+2010,29,Natalie Portman,Black Swan,f
+2011,62,Meryl Streep,The Iron Lady,f
+2012,22,Jennifer Lawrence,Silver Linings Playbook,f
+2013,44,Cate Blanchett,Blue Jasmine,f
+2014,54,Julianne Moore,Still Alice,f
+2015,26,Brie Larson,Room,f
+2016,28,Emma Stone,La La Land,f
+2017,60,Frances McDormand,"Three Billboards Outside Ebbing, Missouri",f
+2018,44,Olivia Colman,The Favourite,f
+2019,50,Renée Zellweger,Judy,f
+2020,63,Frances McDormand,Nomadland,f
+2021,44,Jessica Chastain,The Eyes of Tammy Faye,f
+2022,60,Michelle Yeoh,Everything Everywhere All at Once,f
+1927,44,Emil Jannings,"The Last Command, The Way of All Flesh",m
+1928,41,Warner Baxter,In Old Arizona,m
+1929,62,George Arliss,Disraeli,m
+1930,53,Lionel Barrymore,A Free Soul,m
+1931,47,Wallace Beery,The Champ,m
+1932,35,Fredric March,Dr. Jekyll and Mr. Hyde,m
+1933,34,Charles Laughton,The Private Life of Henry VIII,m
+1934,34,Clark Gable,It Happened One Night,m
+1935,49,Victor McLaglen,The Informer,m
+1936,41,Paul Muni,The Story of Louis Pasteur,m
+1937,37,Spencer Tracy,Captains Courageous,m
+1938,38,Spencer Tracy,Boys Town,m
+1939,34,Robert Donat,"Goodbye, Mr. Chips",m
+1940,32,James Stewart,The Philadelphia Story,m
+1941,40,Gary Cooper,Sergeant York,m
+1942,43,James Cagney,Yankee Doodle Dandy,m
+1943,48,Paul Lukas,Watch on the Rhine,m
+1944,41,Bing Crosby,Going My Way,m
+1945,39,Ray Milland,The Lost Weekend ,m
+1946,49,Fredric March,The Best Years of Our Lives,m
+1947,57,Ronald Colman,A Double Life,m
+1948,41,Laurence Olivier,Hamlet,m
+1949,38,Broderick Crawford,All the King's Men,m
+1950,39,José Ferrer,Cyrano de Bergerac,m
+1951,52,Humphrey Bogart,The African Queen,m
+1952,51,Gary Cooper,High Noon,m
+1953,35,William Holden,Stalag 17,m
+1954,30,Marlon Brando,On the Waterfront,m
+1955,39,Ernest Borgnine,Marty,m
+1956,36,Yul Brynner,The King and I,m
+1957,43,Alec Guinness,The Bridge on the River Kwai,m
+1958,49,David Niven,Separate Tables,m
+1959,36,Charlton Heston,Ben-Hur,m
+1960,47,Burt Lancaster,Elmer Gantry,m
+1961,31,Maximilian Schell,Judgment at Nuremberg,m
+1962,47,Gregory Peck,To Kill a Mockingbird,m
+1963,37,Sidney Poitier,Lilies of the Field,m
+1964,57,Rex Harrison,My Fair Lady,m
+1965,42,Lee Marvin,Cat Ballou,m
+1966,45,Paul Scofield,A Man for All Seasons,m
+1967,42,Rod Steiger,In the Heat of the Night,m
+1968,45,Cliff Robertson,Charly,m
+1969,62,John Wayne,True Grit,m
+1970,43,George C. Scott,Patton,m
+1971,42,Gene Hackman,The French Connection,m
+1972,48,Marlon Brando,The Godfather,m
+1973,49,Jack Lemmon,Save the Tiger,m
+1974,56,Art Carney,Harry and Tonto,m
+1975,38,Jack Nicholson,One Flew Over the Cuckoo's Nest,m
+1976,60,Peter Finch,Network,m
+1977,30,Richard Dreyfuss,The Goodbye Girl,m
+1978,40,Jon Voight,Coming Home,m
+1979,42,Dustin Hoffman,Kramer vs. Kramer,m
+1980,37,Robert De Niro,Raging Bull,m
+1981,76,Henry Fonda,On Golden Pond,m
+1982,39,Ben Kingsley,Gandhi,m
+1983,53,Robert Duvall,Tender Mercies,m
+1984,45,F. Murray Abraham,Amadeus,m
+1985,36,William Hurt,Kiss of the Spider Woman,m
+1986,62,Paul Newman,The Color of Money,m
+1987,43,Michael Douglas,Wall Street,m
+1988,51,Dustin Hoffman,Rain Man,m
+1989,32,Daniel Day-Lewis,My Left Foot,m
+1990,42,Jeremy Irons,Reversal of Fortune,m
+1991,54,Anthony Hopkins,The Silence of the Lambs,m
+1992,52,Al Pacino,Scent of a Woman,m
+1993,37,Tom Hanks,Philadelphia,m
+1994,38,Tom Hanks,Forrest Gump,m
+1995,32,Nicolas Cage,Leaving Las Vegas,m
+1996,45,Geoffrey Rush,Shine,m
+1997,60,Jack Nicholson,As Good as It Gets,m
+1998,46,Roberto Benigni,Life Is Beautiful,m
+1999,40,Kevin Spacey,American Beauty,m
+2000,36,Russell Crowe,Gladiator,m
+2001,47,Denzel Washington,Training Day,m
+2002,29,Adrien Brody,The Pianist,m
+2003,43,Sean Penn,Mystic River,m
+2004,37,Jamie Foxx,Ray,m
+2005,38,Philip Seymour Hoffman,Capote,m
+2006,45,Forest Whitaker,The Last King of Scotland,m
+2007,50,Daniel Day-Lewis,There Will Be Blood,m
+2008,48,Sean Penn,Milk,m
+2009,60,Jeff Bridges,Crazy Heart,m
+2010,50,Colin Firth,The King's Speech,m
+2011,39,Jean Dujardin,The Artist,m
+2012,55,Daniel Day-Lewis,Lincoln,m
+2013,44,Matthew McConaughey,Dallas Buyers Club,m
+2014,33,Eddie Redmayne,The Theory of Everything,m
+2015,41,Leonardo DiCaprio,The Revenant,m
+2016,41,Casey Affleck,Manchester by the Sea,m
+2017,59,Gary Oldman,Darkest Hour,m
+2018,37,Rami Malek,Bohemian Rhapsody,m
+2019,45,Joaquin Phoenix,Joker,m
+2020,83,Anthony Hopkins,The Father,m
+2021,53,Will Smith,King Richard,m
+2022,54,Brendan Fraser,The Whale,m
